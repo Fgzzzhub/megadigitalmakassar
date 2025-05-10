@@ -1,0 +1,9 @@
+a:13:{s:6:"copied";s:8:"Disalin!";s:4:"copy";s:5:"Salin";s:15:"copytoclipboard";s:19:"Salin ke papan klip";s:9:"installer";s:665:"<h3>Penyiapan pustaka komponen</h3>
+<p>Sebelum Anda dapat melihat konten pustaka komponen, Anda harus memiliki akses shell ke instalasi Moodle Anda dan dapat menulis ke folder /admin/tool/componentlibrary dan menginstal npm di server Moodle Anda.</p>
+<p>Jika Anda memenuhi persyaratan ini, Anda dapat menavigasi ke folder root Moodle Anda dan menjalankan:
+</p> <pre>$ npm install</pre>
+<pre>$ npm install grunt</pre>
+<p>Ini akan mengambil semua paket yang diperlukan untuk membangun dokumen pustaka komponen.</p>
+<p>Setelah diinstal, Anda dapat menjalankan:</p>
+<pre>$ grunt componentlibrary</pre>
+<p>Untuk info lebih lanjut lihat file README.md di pengaya ini.</p>";s:10:"pluginname";s:19:"Pustaka Komponen UI";s:16:"privacy:metadata";s:62:"Pengaya Pustaka Komponen tidak menyimpan data pribadi apa pun.";s:8:"runjsdoc";s:107:"Dokumentasi JavaScript dibuat secara terpisah ke pustaka komponen. Untuk membuatnya, jalankan `grunt jsdoc`";s:8:"showboth";s:25:"Tunjukkan dengan keduanya";s:11:"showdefault";s:16:"Tampilkan bawaan";s:8:"showhelp";s:24:"Tunjukkan dengan bantuan";s:9:"showmixed";s:18:"Tampilkan campuran";s:12:"showrequired";s:22:"Tampilkan dengan wajib";s:14:"toggleviewinfo";s:35:"Beralih tampilan model formulir ini";}
