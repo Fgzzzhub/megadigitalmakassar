@@ -34,3 +34,25 @@ sl:warn] [pid 13120:tid 500] AH01909: www.example.com:443:0 server certificate d
 [Sat May 10 14:51:10.131144 2025] [mpm_winnt:notice] [pid 12024:tid 500] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Sat May 10 14:51:12.159641 2025] [mpm_winnt:notice] [pid 13120:tid 500] AH00364: Child: All worker threads have exited.
 [Sat May 10 14:51:12.592602 2025] [mpm_winnt:notice] [pid 12024:tid 500] AH00430: Parent: Child process 13120 exited successfully.
+[Tue May 20 07:10:08.119702 2025] [ssl:warn] [pid 8720:tid 500] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 20 07:10:08.150850 2025] [ssl:warn] [pid 8720:tid 500] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 20 07:10:08.230741 2025] [mpm_winnt:notice] [pid 8720:tid 500] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Tue May 20 07:10:08.230741 2025] [mpm_winnt:notice] [pid 8720:tid 500] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Tue May 20 07:10:08.230741 2025] [core:notice] [pid 8720:tid 500] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Megadigital/megadigitalmakassar/server/apache -f conf\\httpd.conf'
+[Tue May 20 07:10:08.232633 2025] [mpm_winnt:notice] [pid 8720:tid 500] AH00418: Parent: Created child process 10680
+Apache server shutdown initiated...
+sl:warn] [pid 10680:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 20 07:10:08.546564 2025] [ssl:warn] [pid 10680:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 20 07:10:08.578307 2025] [mpm_winnt:notice] [pid 10680:tid 480] AH00354: Child: Starting 150 worker threads.
+[Tue May 20 08:01:46.220247 2025] [mpm_winnt:notice] [pid 8720:tid 500] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 20 08:01:54.179211 2025] [mpm_winnt:notice] [pid 10680:tid 480] AH00364: Child: All worker threads have exited.
+[Tue May 20 08:03:12.957088 2025] [ssl:warn] [pid 8176:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 20 08:03:12.973211 2025] [core:warn] [pid 8176:tid 488] AH00098: pid file C:/Megadigital/megadigitalmakassar/server/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 20 08:03:12.973211 2025] [ssl:warn] [pid 8176:tid 488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 20 08:03:13.004650 2025] [mpm_winnt:notice] [pid 8176:tid 488] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Tue May 20 08:03:13.004650 2025] [mpm_winnt:notice] [pid 8176:tid 488] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Tue May 20 08:03:13.004650 2025] [core:notice] [pid 8176:tid 488] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/Megadigital/megadigitalmakassar/server/apache -f conf\\httpd.conf'
+[Tue May 20 08:03:13.004650 2025] [mpm_winnt:notice] [pid 8176:tid 488] AH00418: Parent: Created child process 8164
+[Tue May 20 08:03:13.194889 2025] [ssl:warn] [pid 8164:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 20 08:03:13.210610 2025] [ssl:warn] [pid 8164:tid 484] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 20 08:03:13.251413 2025] [mpm_winnt:notice] [pid 8164:tid 484] AH00354: Child: Starting 150 worker threads.

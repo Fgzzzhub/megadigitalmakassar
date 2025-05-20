@@ -1,0 +1,17 @@
+s:1531:"<p>Modul aktivitas basis data memungkinkan peserta untuk membuat, memelihara, dan mencari kumpulan entri (mis. Catatan). Struktur entri didefinisikan oleh pengajar sebagai sejumlah bidang. Jenis bidang termasuk kotak centang, tombol radio, menu dropdown, area teks, URL, gambar dan file yang diunggah.</p>
+
+<p>Tata letak visual informasi ketika mendaftar, melihat atau mengedit entri basis data dapat dikendalikan oleh templat basis data. Kegiatan basis data dapat dibagi antarkursus sebagai preset dan pengajar juga dapat mengimpor dan mengekspor entri basis data.</p>
+
+<p>Jika filter tautan otomatis basis data diaktifkan, setiap entri dalam basis data akan secara otomatis ditautkan di mana kata atau frasa muncul dalam kursus.</p>
+
+<p>Pengajar dapat mengizinkan komentar pada entri. Entri juga dapat dinilai oleh pengajar atau siswa (evaluasi rekan sejawat). Peringkat dapat dikumpulkan untuk membentuk nilai akhir yang dicatat dalam buku angka.</p>
+
+<p>Aktivitas  basis data memiliki banyak kegunaan, seperti</p>
+
+<ul>
+<li>Kumpulan kolaboratif tautan web, buku, ulasan buku, referensi jurnal, dll.</li>
+<li>Untuk menampilkan foto, poster, situs web, atau puisi yang dibuat siswa untuk komentar dan ulasan rekan sejawat.</li>
+</ul>
+
+<div class="helpdoclink"><a href="https://docs.moodle.org/500/id/mod/data/view" target="_blank" rel="noreferrer noopener"><i class="icon fa fa-book fa-fw"></i>Bantuan labih lanjut<i class="icon fa fa-arrow-up-right-from-square fa-fw fa-externallink" title="Buka di jendela baru"></i></a></div>
+";

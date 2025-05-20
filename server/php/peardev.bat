@@ -25,12 +25,12 @@ REM -------------------
 REM Test to see if this is a raw pear.bat (uninstalled version)
 SET TMPTMPTMPTMPT=@includ
 SET PMTPMTPMT=%TMPTMPTMPTMPT%e_path@
-FOR %%x IN ("D:\Afgan\moodle\server\php\pear") DO (if %%x=="%PMTPMTPMT%" GOTO :NOTINSTALLED)
+FOR %%x IN ("C:\Megadigital\megadigitalmakassar\server\php\pear") DO (if %%x=="%PMTPMTPMT%" GOTO :NOTINSTALLED)
 
 REM Check PEAR global ENV, set them if they do not exist
-IF "%PHP_PEAR_INSTALL_DIR%"=="" SET "PHP_PEAR_INSTALL_DIR=D:\Afgan\moodle\server\php\pear"
-IF "%PHP_PEAR_BIN_DIR%"=="" SET "PHP_PEAR_BIN_DIR=D:\Afgan\moodle\server\php"
-IF "%PHP_PEAR_PHP_BIN%"=="" SET "PHP_PEAR_PHP_BIN=D:\Afgan\moodle\server\php\php.exe"
+IF "%PHP_PEAR_INSTALL_DIR%"=="" SET "PHP_PEAR_INSTALL_DIR=C:\Megadigital\megadigitalmakassar\server\php\pear"
+IF "%PHP_PEAR_BIN_DIR%"=="" SET "PHP_PEAR_BIN_DIR=C:\Megadigital\megadigitalmakassar\server\php"
+IF "%PHP_PEAR_PHP_BIN%"=="" SET "PHP_PEAR_PHP_BIN=C:\Megadigital\megadigitalmakassar\server\php\php.exe"
 GOTO :INSTALLED
 
 :NOTINSTALLED

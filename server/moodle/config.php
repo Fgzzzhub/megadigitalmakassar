@@ -19,7 +19,8 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = 'http://localhost';
-$CFG->dataroot  = 'D:\\Afgan\\moodle\\server\\moodledata';
+
+$CFG->dataroot  = 'C:\Megadigital\megadigitalmakassar\server\moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
